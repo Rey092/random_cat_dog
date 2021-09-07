@@ -1,0 +1,5 @@
+aiogram
+aiohttp
+aioredis
+django
+psycopg2-binary
